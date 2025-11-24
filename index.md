@@ -204,7 +204,7 @@ Status: Connected
 
                 Visited: https://ipleak.net again.
 
-From the “AFTER” PDF:
+From the “AFTER”:
 
 ![Screenshot9](./imagesf2/Screenshot9.png)
 
