@@ -8,6 +8,7 @@ What: This documentation explains the process of setting up a WireGuard VPN serv
 
 
 Step 1 — Sign Up for DigitalOcean
+
 I created a DigitalOcean account and redeemed the free credit offered to students. This credit allows the server (Droplet) to run with no out-of-pocket cost.
 
 Link:
